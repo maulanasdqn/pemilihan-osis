@@ -1,15 +1,5 @@
 <div class="row">
-    <!-- <div class="col-lg-8">
-        <div class="box">
-            <div class="box-inner">
-                <div class="box-header well">
-                    <h2>DAFTAR DPT</h2>
-                </div>
-                <?php include('ajaxsearch.php'); ?>
-            </div>
-        </div>
-    </div> -->
-    <div class="col-lg-8">
+        <div class="col-lg-8">
         <div class="box">
             <div class="box-inner">
                 <div class="box-header well">
