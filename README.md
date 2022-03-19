@@ -1,3 +1,3 @@
-#Program Pilih OSIS
+# Program Pilih OSIS
 
-Program Untuk Pilih OSIS
+Program Untuk Pemilihan OSIS Berbasis PHP Codeigniter 3
